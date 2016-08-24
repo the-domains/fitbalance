@@ -12,5 +12,9 @@ color:
     - '#E2D8CA'
 layout_spectrum: 0.9470565568190068
 name: FitBalance
+navigation:
+  - name: Behind The Waldorf Astoria Bar Book's Brand New Update
+    id: 073ac3d6-d292-4dee-b623-fed6a8891dd5
+    type: content
 title: FitBalance
 description: Uitgaan van je eigen kracht
