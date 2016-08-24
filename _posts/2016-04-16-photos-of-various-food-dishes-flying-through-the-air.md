@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T16:47:49.443Z'
+datePublished: '2016-08-24T17:03:07.496Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,25 +18,31 @@ keywords:
   - feature
 related: []
 author: []
-dateModified: '2016-08-24T16:47:48.848Z'
-title: Photos of Various Food Dishes Flying Through the Air
+via: {}
+dateModified: '2016-08-24T17:03:06.990Z'
+title: Coaching
 app_links: []
 publisher:
-  url: 'http://petapixel.com'
-  name: PetaPixel
-  favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
-  domain: petapixel.com
+  name: Michel Wernars
 description: >-
-  Camden, London-based commercial still life photographer Piotr Gregorczyk likes
-  to play with food and gravity. One concept he has focused on for a number of
-  recent projects is the idea of showing various food dishes flying through the
-  air as they come together on a plate or in a bowl.
+  In sommige periodes in je leven kun je een gevoel van ‘vastzitten’ ervaren. Je
+  voelt je uit balans, door bijvoorbeeld zorg voor je gezin, je familie, druk op
+  je werk. Je hebt het gevoel dat je jezelf kwijt bent. Je loopt steeds tegen
+  dezelfde dingen aan. Iets belemmert je, maar je weet niet goed wat. Je voelt
+  onrust omdat je bepaalde keuzes wilt maken, maar je twijfelt…
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg" /><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p></article>
+![Ik help je bij het terug vinden van je Balanc](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb9b12b-71c8-465a-a2ea-4d5bb47f0a52.jpg)
+
+# Coaching
+
+## Ik help je bij het terug vinden van je balans!
+
+**In sommige periodes in je leven kun je een gevoel van 'vastzitten' ervaren. Je voelt je uit balans, door bijvoorbeeld zorg voor je gezin, je familie, druk op je werk. Je hebt het gevoel dat je jezelf kwijt bent. Je loopt steeds tegen dezelfde dingen aan. Iets belemmert je, maar je weet niet goed wat. Je voelt onrust omdat je bepaalde keuzes wilt maken, maar je twijfelt...**
+
+**Herkenbaar? Coaching kan je helpen om oude patronen te doorbreken. Om te leren zien en te voelen waarom je doet zoals je doet. En wat je anders kan doen. Zodat je weer in je eigen kracht komt, de balans ervaart en van daaruit verder kunt groeien.**
