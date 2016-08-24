@@ -12,9 +12,5 @@ color:
     - '#E2D8CA'
 layout_spectrum: 0.9470565568190068
 name: FitBalance
-navigation:
-  - name: Tarieven
-    id: 90bb2a81-a0b2-4912-b823-221e514fd9c6
-    type: content
 title: FitBalance
 description: Uitgaan van je eigen kracht
