@@ -1,4 +1,3 @@
-layout_spectrum: 0.9470565568190068
 typography_spectrum: 0.5037376945838332
 color:
   brandStrength: 0.38884035288356245
@@ -11,4 +10,6 @@ color:
     - '#BDAC9B'
     - '#948271'
     - '#E2D8CA'
+layout_spectrum: 0.9470565568190068
 name: FitBalance
+description: Uitgaan van je eigen kracht
