@@ -4,18 +4,17 @@ description: >-
   persoon. De eerste behandeling is een intake van 20 minuten. Als stoelmassage
   onderdeel is van het HR-beleid, dan zijn deze kosten niet belast. Hier vertel
   ik je graag meer over.
-dateModified: '2016-08-24T17:05:40.050Z'
-datePublished: '2016-08-24T17:14:00.486Z'
+dateModified: '2016-08-24T17:27:51.040Z'
+datePublished: '2016-08-24T17:27:51.887Z'
 title: Wat zijn de kosten?
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-wat-zijn-de-kosten.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: wat-zijn-de-kosten/index.html
+_type: Blurb
 
 ---
 # **Wat zijn de kosten?**
