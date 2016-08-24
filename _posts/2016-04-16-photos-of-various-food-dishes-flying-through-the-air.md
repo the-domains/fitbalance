@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T17:03:07.496Z'
+datePublished: '2016-08-24T17:14:37.432Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T17:03:06.990Z'
+dateModified: '2016-08-24T17:14:36.986Z'
 title: Coaching
 app_links: []
 publisher:
@@ -37,7 +37,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Ik help je bij het terug vinden van je Balanc](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb9b12b-71c8-465a-a2ea-4d5bb47f0a52.jpg)
+![Ik help je bij het terug vinden van je Balans!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb9b12b-71c8-465a-a2ea-4d5bb47f0a52.jpg)
 
 # Coaching
 
