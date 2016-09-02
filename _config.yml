@@ -11,6 +11,8 @@ color:
     - '#948271'
     - '#E2D8CA'
 layout_spectrum: 0.9470565568190068
+analytics:
+  google: UA-67989701-1
 author:
   name: Michel Wernars
   email: info@fitbalance.nl
