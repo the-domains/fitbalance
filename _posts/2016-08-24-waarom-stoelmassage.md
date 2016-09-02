@@ -1,24 +1,25 @@
 ---
+datePublished: '2016-08-31T08:40:19.308Z'
+sourcePath: _posts/2016-08-24-waarom-stoelmassage.md
+author: []
+via: {}
+dateModified: '2016-08-31T08:40:18.708Z'
+title: Stoelmassage
+publisher: {}
 description: >-
   In deze tijd vragen we veel van onze medewerkers. Er moet meer werk gedaan
   worden, vaak in minder tijd, en er verandert veel. Daarom wil je goed voor je
   personeel zorgen. Je wilt de vitaliteit van je medewerkers versterken. En
   actief bijdragen aan een lager verzuim. Stoelmassage op de werkvloer helpt bij
   het verminderen van stress. Het vergroot de veerkracht van je mensen.
-dateModified: '2016-08-24T17:16:23.014Z'
-datePublished: '2016-08-24T17:16:41.187Z'
-title: Waarom stoelmassage?
-author: []
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-08-24-waarom-stoelmassage.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# Stoelmassage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fb7b7ec-f204-4282-a01d-d83505804770.jpg)
 
 **In deze tijd vragen we veel van onze medewerkers. Er moet meer werk gedaan worden, vaak in minder tijd, en er verandert veel. Daarom wil je goed voor je personeel zorgen. Je wilt de vitaliteit van je medewerkers versterken. En actief bijdragen aan een lager verzuim. Stoelmassage op de werkvloer helpt bij het verminderen van stress. Het vergroot de veerkracht van je mensen.**
