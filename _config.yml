@@ -23,5 +23,8 @@ navigation:
   - name: Tarieven
     id: 692dc592-c995-4715-b30f-81ce70a8403b
     type: content
+  - name: Contact
+    id: df5a0552-9b69-4adc-a7e0-65dc22f9489b
+    type: content
 title: FitBalance
 description: Uitgaan van je eigen kracht
