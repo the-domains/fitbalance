@@ -1,23 +1,19 @@
 ---
-datePublished: '2016-08-31T08:14:54.999Z'
+datePublished: '2016-08-31T08:16:44.658Z'
+sourcePath: _posts/2016-08-31-wat-kost-een-massage.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T08:14:36.510Z'
+dateModified: '2016-08-31T08:16:43.830Z'
 title: Wat kost een massage?
 publisher:
   name: Michel Wernars
-description: >-
-  We nemen allemaal wel eens te veel op onze schouders. Of we hebben het gevoel
-  dat we voortdurend in een controlestand staan, ‘onder spanning’. Voel je
-  stress, ben je moe, zit je vast? Dan kan massage veel voor je doen. Met
-  massage zet ik het zelf-herstellend vermogen van het lichaam weer in werking.
-  Je voelt je meer ontspannen en energieker.
+description: Massage
 starred: false
-sourcePath: _posts/2016-08-31-wat-kost-een-massage.md
 _type: Blurb
 
 ---
+Massage
 ![Massage](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a62d499-7fc8-415e-897f-30e579ec0bf9.jpg)
 
 **We nemen allemaal wel eens te veel op onze schouders. Of we hebben het gevoel dat we voortdurend in een controlestand staan, 'onder spanning'. Voel je stress, ben je moe, zit je vast? Dan kan massage veel voor je doen. Met massage zet ik het zelf-herstellend vermogen van het lichaam weer in werking. Je voelt je meer ontspannen en energieker.**
